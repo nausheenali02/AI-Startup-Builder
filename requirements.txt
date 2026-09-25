@@ -1,0 +1,10 @@
+langgraph>=1.2.0
+langchain>=1.2.0
+langchain-core
+langchain-google-genai
+langchain-openai
+pydantic>=2.7.0
+tavily-python>=0.5.0
+python-dotenv>=1.0.1
+rich>=13.7.0
+pytest>=8.0.0

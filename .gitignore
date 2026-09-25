@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Environment Variables
+.env
+.env.local
+
+# Databases & Vector Stores
+*.db
+*.sqlite3
+chroma_db/
+faiss_index/
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
